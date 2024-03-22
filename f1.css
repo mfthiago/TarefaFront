@@ -1,0 +1,134 @@
+.pista {
+  width: 1300px;
+  height: 500px;
+  background-color: rgb(36, 23, 23);
+  position: relative;
+  top: 20px;
+}
+
+#chegada{
+  width: 60px;
+  height: 500px;
+  background-color: #ffffffed;
+  border-style: dashed;
+  border-color: black;
+  border-spacing: 100px;
+  translate: 1080px;
+}
+
+button#buttonSaldo {
+  width: 20%;
+  height: 30px;
+  background-color: darkcyan;
+  border-radius: 25px;
+}
+
+#car1 {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  top: 10px;
+  background-image: url('images/f1.png');
+  background-size: cover
+}
+
+#car2 {
+  position: absolute;
+  
+  width: 80px;
+  height: 80px;
+  top: 110px;
+  background-image: url('images/f1.png');
+  background-size: cover
+}
+
+#car3 {
+  position: absolute;
+  
+  width: 80px;
+  height: 80px;
+  top: 210px;
+  background-image: url('images/f1.png');
+  background-size: cover
+}
+
+#car4 {
+  position: absolute;
+  
+  width: 80px;
+  height: 80px;
+  top: 310px;
+  background-image: url('images/f1.png');
+  background-size: cover
+}
+
+#car5 {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  top: 415px;
+  background-image: url('images/f1.png');
+  background-size: cover
+}
+
+
+#faixa1 {
+  position: absolute;
+  width: 1300px;
+  height: 1px;
+  background-color: rgba(255, 255, 255, 0.975);
+  top: 2;   
+  border-style: dotted;
+}
+
+#faixa2 {
+  position: absolute;
+  width: 1300px;
+  height: 1px;
+  background-color: rgba(255, 255, 255, 0.975);
+  top: 100;   
+  border-style: dotted;
+}
+
+#faixa3 {
+  position: absolute;
+  width: 1300px;
+  height: 1px;
+  background-color: rgba(255, 255, 255, 0.975);
+  top: 200;   
+  border-style: dotted;
+}
+
+#faixa4 {
+  position: absolute;
+  width: 1300px;
+  height: 1px;
+  background-color: rgba(255, 255, 255, 0.975);
+  top: 300;   
+  border-style: dotted;
+}
+
+#faixa5 {
+  position: absolute;
+  width: 1300px;
+  height: 1px;
+  background-color: rgba(255, 255, 255, 0.975);
+  top: 400;   
+  border-style: dotted;
+}
+
+#faixa6 {
+  position: absolute;
+  width: 1300px;
+  height: 1px;
+  background-color: rgba(255, 255, 255, 0.975);
+  top: 500;   
+  border-style: dotted;
+}
+
+#saldo{
+  position: relative;
+  width: 20%;
+  height: 30px;
+  background-color: blueviolet;
+}
